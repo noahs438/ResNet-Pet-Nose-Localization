@@ -1,0 +1,7 @@
+Egyptian_Mau_14.jpg,"(374, 565)"
+Egyptian_Mau_156.jpg,"(127, 122)"
+Egyptian_Mau_167.jpg,"(83, 48)"
+Egyptian_Mau_186.jpg,"(103, 79)"
+Abyssinian_5.jpg,"(99, 106)"
+Abyssinian_34.jpg,"(191, 63)"
+chihuahua_121.jpg,"(88, 112)"

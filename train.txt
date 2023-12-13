@@ -1,0 +1,2 @@
+python train.py
+python train.py -b 20 -e 40

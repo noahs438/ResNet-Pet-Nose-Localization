@@ -1,0 +1,5 @@
+python test.py --num-images 10
+python test.py --num-images 20
+python test.py --num-images 30
+python test.py --num-images 40
+python test.py --num-images
