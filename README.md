@@ -2,4 +2,4 @@
 
 ### Neural Style Transfer using the AdaIN network architecture
 
-### [Final Report](ELEC 475 Lab 5 Report.pdf) 
+### [Final Report](ELEC475_Lab5_Report.pdf) 
